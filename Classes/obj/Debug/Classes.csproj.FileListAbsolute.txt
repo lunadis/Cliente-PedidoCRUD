@@ -1,0 +1,5 @@
+C:\Users\Luis Lopes\documents\visual studio 2010\Projects\CrudClientePedido\Classes\bin\Debug\Classes.dll
+C:\Users\Luis Lopes\documents\visual studio 2010\Projects\CrudClientePedido\Classes\bin\Debug\Classes.pdb
+C:\Users\Luis Lopes\documents\visual studio 2010\Projects\CrudClientePedido\Classes\obj\Debug\Classes.dll
+C:\Users\Luis Lopes\documents\visual studio 2010\Projects\CrudClientePedido\Classes\obj\Debug\Classes.pdb
+C:\Users\Luis Lopes\documents\visual studio 2010\Projects\CrudClientePedido\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
